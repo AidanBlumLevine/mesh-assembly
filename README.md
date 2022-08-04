@@ -4,7 +4,7 @@ Takes in arbitrary 3D meshes and calculates how they would fit together visually
 
 Here you can see a few examples of what it can do:
 
-<img src="">
+<img src="https://github.com/AidanBlumLevine/mesh-assembly/blob/7b9dbce13312931e13d920b9a4a6c76f389c1512/town_generation.gif">
 
 This example used all equal weights:
 
